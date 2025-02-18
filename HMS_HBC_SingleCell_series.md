@@ -3,4 +3,4 @@
 </p>
 
 
-### Sign up for workshops using the links below
+# Sign up for workshops using the links below
