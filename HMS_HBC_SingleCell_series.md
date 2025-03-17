@@ -16,9 +16,9 @@ _Note that some links will become active ony two weeks prior to the start date._
 | | |  |
 | **Pseudobulk and related approaches <br> for scRNA-seq** (HBC)| April 4th, 8th, 11th | [Coming soon]() |
 | | |  |
-| **Single cell analysis with Cellenics** (CCB)| April 16th | [Coming soon]() |
+| **Single cell analysis with Cellenics** (CCB)| April 16th | [Register now!](https://hms.az1.qualtrics.com/jfe/form/SV_74jTkHfoDZmrqCO) |
 | | |  |
-| **Single cell analysis using Bioconductor** (CCB)| April 23rd, 30th | [Coming soon]() |
+| **Single cell analysis using Bioconductor** (CCB)| April 23rd, 30th | [Register now!](https://hms.az1.qualtrics.com/jfe/form/SV_71H3knrA3ar37tY) |
 
 
 
