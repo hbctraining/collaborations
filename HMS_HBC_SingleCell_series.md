@@ -14,7 +14,7 @@ _Note that some links will become active ony two weeks prior to the start date._
 | :----: | :----: |  :----: | 
 | **Introduction to single-cell analysis <br> using Seurat** (HBC) | March 4th, 7th, 11th | [Registration closed]() |
 | | |  |
-| **Pseudobulk and related approaches <br> for scRNA-seq** (HBC)| April 4th, 8th, 11th | [Register now!](https://hbctraining.github.io/main/registrations/AllFunders_Pseuobulk_related_approaches_scRNAseq_analysis) |
+| **Pseudobulk and related approaches <br> for scRNA-seq** (HBC)| April 4th, 8th, 11th | [Registration closed]() |
 | | |  |
 | **Single cell analysis with Cellenics** (CCB)| April 16th | [Register now!](https://hms.az1.qualtrics.com/jfe/form/SV_74jTkHfoDZmrqCO) |
 | | |  |
